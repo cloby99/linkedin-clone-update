@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "linkedin-clone-861ab",
+    "production": "linkedin-clone-trial"
+  },
+  "targets": {},
+  "etags": {}
+}
