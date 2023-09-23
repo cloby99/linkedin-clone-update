@@ -1,0 +1,25 @@
+.app{
+    background-color: #f3f2ef !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    /* height: 100vh; */
+    /* align-items: center; */
+    
+    
+
+}
+
+.app__body{
+    display: flex;
+    margin-top: 35px;
+    max-width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    /* padding-right: 10%;
+    padding-left: 12%; */
+    /* gap: 10px; */
+    /* max-width: 1200px; */
+    /* margin-left: 20px;
+    margin-right: 20px; */
+}
